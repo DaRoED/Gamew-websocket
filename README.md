@@ -1,2 +1,1 @@
-# Gamew-API
-server hosting
+# Gamew-websocket
